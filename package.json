@@ -1,0 +1,20 @@
+{
+  "name": "koishi-plugin-xiuxian",
+  "description": "修仙·文游·九川制作",
+  "version": "1.6.4",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.14.4"
+  }
+}
